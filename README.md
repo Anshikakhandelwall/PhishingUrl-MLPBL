@@ -130,6 +130,8 @@ Users can:
 *Insert screenshots showing phishing and legitimate URL predictions.*
 
 <img width="648" height="148" alt="image" src="https://github.com/user-attachments/assets/839802a5-820b-4780-9f35-f14d9ea83345" />
+<img width="1357" height="242" alt="image" src="https://github.com/user-attachments/assets/b66d708a-ff53-4e52-92eb-398ff7966bcc" />
+
 
 
 
